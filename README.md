@@ -89,4 +89,6 @@ Rajdhani and IBM Plex Mono are available in the Typst web app. To substitute any
 
 ## License
 
-MIT
+The theme (`src/`) is licensed under [MIT](LICENSE). The template directory
+(`template/`) is licensed under [MIT-0](LICENSE-MIT-0), so decks created from it can be
+used and shared without attribution.
